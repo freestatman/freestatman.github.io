@@ -1,24 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rnabioco.github.io/valr/index.html</loc>
+    <loc>https://freestatman.github.io/ideogRam/index.html</loc>
   </url>
   <url>
-    <loc>https://rnabioco.github.io/valr/reference/ideogRam-shiny.html</loc>
+    <loc>https://freestatman.github.io/ideogRam/reference/ideogRam.html</loc>
   </url>
   <url>
-    <loc>https://rnabioco.github.io/valr/reference/ideogRam.html</loc>
+    <loc>https://freestatman.github.io/ideogRam/reference/reexports.html</loc>
   </url>
   <url>
-    <loc>https://rnabioco.github.io/valr/reference/reexports.html</loc>
+    <loc>https://freestatman.github.io/ideogRam/articles/example1.html</loc>
   </url>
   <url>
-    <loc>https://rnabioco.github.io/valr/articles/example1.html</loc>
+    <loc>https://freestatman.github.io/ideogRam/articles/example2.html</loc>
   </url>
   <url>
-    <loc>https://rnabioco.github.io/valr/articles/example2.html</loc>
-  </url>
-  <url>
-    <loc>https://rnabioco.github.io/valr/articles/index.html</loc>
+    <loc>https://freestatman.github.io/ideogRam/articles/index.html</loc>
   </url>
 </urlset>
