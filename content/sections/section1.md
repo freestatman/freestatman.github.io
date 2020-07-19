@@ -12,6 +12,6 @@ Data Science, CRO, Statistics and ML, Genomic, Computational Biology
 * Data science in clinical trial research 
 * Production-grade R/Shiny app
 * Project scoping and managment 
-* Tons of Visualization 
 * ML and applied Statistics 
+* #dataviz
 * #rstats and #bioconductor

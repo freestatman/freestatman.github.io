@@ -5,5 +5,4 @@ improvecontrast: true
 ---
 
 # Freeman Wang
-
-I'm a Data Science Manager in a CRO company serving for pharmaceutical industry. 
+I am the Data Science Manager of a CRO company serving the pharmaceutical industry.
