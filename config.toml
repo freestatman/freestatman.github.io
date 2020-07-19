@@ -1,0 +1,17 @@
+baseURL = "http://freestatman.github.io/"
+languageCode = "en-us"
+title = "Freeman Wang"
+theme = "hugograyscale"
+#googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+    # Provide some metadata for search and indexing services
+    description = "Freeman Wang's personal site"
+
+[Author]
+    name = "Freeman Wang"
+    email = "freestatman@gmail.com"
+
+[Social]
+    twitter = "freestatman"
